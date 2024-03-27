@@ -1,7 +1,7 @@
 # Hackintosh-c50
 
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
-Last update: March 19th 2024. 
+Last update: March 26th 2024. 
 
 ## Description
 
