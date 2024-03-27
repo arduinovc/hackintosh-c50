@@ -20,6 +20,9 @@ Tested with: don't boot at the moment.
 ## Hardware
 
 __Laptop Dynabook Satellite Pro C50__  
+![Dynabook C50-H-101](/Assets/Dynabook-C50.JPG "Dynabook C50")  
+[Datasheet Toshiba](/Assets/Dynabook-C50-H-101-Datasheet-DE.pdf)  
+
 
 | Type	| Name                   |
 |:------|:-----------------------|
