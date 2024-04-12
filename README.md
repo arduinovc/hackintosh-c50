@@ -1,13 +1,13 @@
 # Hackintosh-c50
 
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
-Last update: March 26th 2024. 
+Last update: April 12th 2024. 
 
 ## Description
 
 EFI files based on OpenCore  
-OpenCore version: 0.9.8  
-Actual compatible macOS version: macOS Sonoma capable  
+OpenCore version: 0.9.9  
+Seems to be compatible with: macOS Sonoma capable  
 Tested with: don't boot at the moment.  
 
 ## How to use
@@ -28,9 +28,9 @@ __Laptop Dynabook Satellite Pro C50__
 |:------|:-----------------------|
 | CPU	| Intel i5 gen 1035G1	 |
 | RAM	| 8Gb DDR4 3200 MHz  |
-| GPU	| Intel UHD ??? |
+| GPU	| Intel UHD G1 |
 | Drive	| NVMe SSD 256 Gb	 |
-| Sound	card	| Realtek ???	 |
+| Sound	card	| Realtek ALC	 |
 | WLAN	| Intel Wireless 3165 	 |
 | Bluetooth | Intel Wireless 3165 #Port0?? |
 | LAN	| Realtek RT8211 ?	 |
