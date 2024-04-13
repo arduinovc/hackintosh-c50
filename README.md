@@ -7,7 +7,7 @@ Last update: April 12th 2024.
 
 EFI files based on OpenCore  
 OpenCore version: 0.9.9  
-Seems to be compatible with: macOS Sonoma capable  
+Seems to be compatible with: macOS Sonoma    
 Tested with: don't boot at the moment.  
 
 ## How to use
@@ -43,7 +43,16 @@ System Serial :
 
 ## Working and Not-Working
 
-In-progress
+### Working (at this point)  
+MacOS installer start successfully.  
+Support native 1080p screen and backlight is on.  
+Support Intel Wireless network card and Ethernet Realtek card.  
+SSD (Sata) is detected correctly.  
+
+### Not-Working  
+Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
+I will try VoodooSMBus emulation soon.  
+Keyboard Fn function doesn't work at the moment.  
 
 ## Screenshots
 
