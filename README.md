@@ -44,15 +44,18 @@ System Serial :
 ## Working and Not-Working
 
 ### Working (at this point)  
-MacOS installer start successfully.  
+MacOS Sonoma installed successfully.  
 Support native 1080p screen and backlight is on.  
 Support Intel Wireless network card and Ethernet Realtek card.  
 SSD (Sata) is detected correctly.  
+Bluetooth works (enable and connect devices).  
 
 ### Not-Working  
 Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
 I will try VoodooSMBus emulation soon.  
 Keyboard Fn function doesn't work at the moment.  
+Backlight not adjustable.  
+No video acceleration.  
 
 ## Screenshots
 
