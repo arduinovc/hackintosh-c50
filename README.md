@@ -8,7 +8,7 @@ Last update: April 12th 2024.
 EFI files based on OpenCore  
 OpenCore version: 0.9.9  
 Seems to be compatible with: macOS Sonoma    
-Tested with: don't boot at the moment.  
+Tested with: installed.  
 
 ## How to use
 
