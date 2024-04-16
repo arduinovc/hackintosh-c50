@@ -272,12 +272,7 @@
         <dict>
             <key>Add</key>
             <dict>
-                <key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
-                <dict>
-                    <key>layout-id</key>
-                    <data>BQAAAA==</data>
-                </dict>
-                <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+                <key>##PciRoot(0x0)/Pci(0x2,0x0)</key>
                 <dict>
                     <key>AAPL,ig-platform-id</key>
                     <data>AABSig==</data>
@@ -287,6 +282,28 @@
                     <integer>1</integer>
                     <key>framebuffer-stolenmem</key>
                     <data>AAAwAQ==</data>
+                </dict>
+                <key>PciRoot(0x0)/Pci(0x1b,0x0)</key>
+                <dict>
+                    <key>layout-id</key>
+                    <data>BQAAAA==</data>
+                </dict>
+                <key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+                <dict>
+                    <key>AAPL,ig-platform-id</key>
+                    <data>AABaig==</data>
+                    <key>device-id</key>
+                    <data>WooAAA==</data>
+                    <key>disable-external-gpu</key>
+                    <data>AQAAAA==</data>
+                    <key>framebuffer-fbmem</key>
+                    <data>AACQAA==</data>
+                    <key>framebuffer-patch-enable</key>
+                    <data>AQAAAA==</data>
+                    <key>framebuffer-stolenmem</key>
+                    <data>AAAwAQ==</data>
+                    <key>framebuffer-unifedmem</key>
+                    <data>AAAAgA==</data>
                 </dict>
             </dict>
             <key>Delete</key>

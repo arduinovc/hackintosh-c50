@@ -1,14 +1,14 @@
 # Hackintosh-c50
 
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
-Last update: April 12th 2024. 
+Last update: April 16th 2024. 
 
 ## Description
 
 EFI files based on OpenCore  
 OpenCore version: 0.9.9  
 Seems to be compatible with: macOS Sonoma    
-Tested with: installed.  
+Test status: installed.  
 
 ## How to use
 
@@ -38,8 +38,8 @@ __Laptop Dynabook Satellite Pro C50__
 
 ## SMBIOS Info
 
-System Product Name : 
-System Serial :   
+System Product Name : MacBookAir9,1  
+System Serial : FVFD66Z9MNHP  
 
 ## Working and Not-Working
 
@@ -48,14 +48,17 @@ MacOS Sonoma installed successfully.
 Support native 1080p screen and backlight is on.  
 Support Intel Wireless network card and Ethernet Realtek card.  
 SSD (Sata) is detected correctly.  
-Bluetooth works (enable and connect devices).  
+Bluetooth works (enable and connect devices - Apple Magic Mouse 2 works).  
+Video acceleration fixed with device-id spoofing.  
+
+### Need to be checked 
+Ability to reduce CPU frequency: CPUFriend ?  
 
 ### Not-Working  
 Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
-I will try VoodooSMBus emulation soon.  
 Keyboard Fn function doesn't work at the moment.  
-Backlight not adjustable.  
-No video acceleration.  
+Backlight not adjustable (keyboard or software). 
+Cannot recover macOS after entering sleeping mode.  
 
 ## Screenshots
 
@@ -63,7 +66,11 @@ In-progress
 
 ## Work to do
 
-Build the first EFI
+Fixing keyboard Fn function and touchpad.  
+Fixing screen backlight.  
+Control CPU power/frequency change.  
 
 ## Credit
 
+Just myself. EFI build from scratch.  
+Thx Dortania for OpenCore guide.  
