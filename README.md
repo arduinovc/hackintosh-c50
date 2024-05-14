@@ -30,10 +30,10 @@ __Laptop Dynabook Satellite Pro C50__
 | RAM	| 8Gb DDR4 3200 MHz  |
 | GPU	| Intel UHD G1 |
 | Drive	| NVMe SSD 256 Gb	 |
-| Sound	card	| Realtek ALC	 |
+| Sound	card	| Realtek ALC256	 |
 | WLAN	| Intel Wireless 3165 	 |
 | Bluetooth | Intel Wireless 3165 #Port0?? |
-| LAN	| Realtek RT8211 ?	 |
+| LAN	| Realtek RT8111 |
 | Display | LVDS or eDP display 1920*1080 |
 
 ## SMBIOS Info
