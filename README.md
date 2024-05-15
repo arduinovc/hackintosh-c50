@@ -58,10 +58,10 @@ Fix cursor artefact using bad device-id (video acceleration).
 
 ## Screenshots
 
-![Dynabook C50-H-101](/Assets/Sonoma.JPG "C50 Sonoma")
-![Dynabook C50-H-101](/Assets/Sonoma-SystemInfo.JPG "C50 Info")
-![Dynabook C50-H-101](/Assets/Sonoma-SystemSettings.JPG "C50 System Settings")
-![Dynabook C50-H-101](/Assets/Sonoma-MapsStore.JPG "C50 Maps and Apple Store")
+![Dynabook C50-H-101](/Assets/Sonoma.png "C50 Sonoma")
+![Dynabook C50-H-101](/Assets/Sonoma-SystemInfo.png "C50 Info")
+![Dynabook C50-H-101](/Assets/Sonoma-SystemSettings.png "C50 System Settings")
+![Dynabook C50-H-101](/Assets/Sonoma-MapsStore.png "C50 Maps and Apple Store")
 
 ## Work to do
 
