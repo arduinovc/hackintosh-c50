@@ -1,7 +1,7 @@
 # Hackintosh-c50
 
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
-Last update: April 16th 2024. 
+Last update: May 15th 2024. 
 
 ## Description
 
@@ -51,18 +51,17 @@ SSD (Sata) is detected correctly.
 Bluetooth works (enable and connect devices - Apple Magic Mouse 2 works).  
 Video acceleration fixed with device-id spoofing.  
 
-### Need to be checked 
-Ability to reduce CPU frequency: CPUFriend ?  
-
 ### Not-Working  
 Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
 Keyboard Fn function doesn't work at the moment.  
-Backlight not adjustable (keyboard or software). 
-Cannot recover macOS after entering sleeping mode.  
+Fix cursor artefact using bad device-id (video acceleration).
 
 ## Screenshots
 
-In-progress
+![Dynabook C50-H-101](/Assets/Sonoma.JPG "C50 Sonoma")
+![Dynabook C50-H-101](/Assets/Sonoma-SystemInfo.JPG "C50 Info")
+![Dynabook C50-H-101](/Assets/Sonoma-SystemSettings.JPG "C50 System Settings")
+![Dynabook C50-H-101](/Assets/Sonoma-MapsStore.JPG "C50 Maps and Apple Store")
 
 ## Work to do
 
