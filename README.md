@@ -1,7 +1,7 @@
 # Hackintosh-c50
 
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
-Last update: May 15th 2024. 
+Last update: May 17th 2024. 
 
 ## Description
 
@@ -54,7 +54,6 @@ Video acceleration fixed with device-id spoofing.
 ### Not-Working  
 Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
 Keyboard Fn function doesn't work at the moment.  
-Fix cursor artefact using bad device-id (video acceleration).
 
 ## Screenshots
 
