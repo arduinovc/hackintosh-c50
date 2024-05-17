@@ -54,6 +54,7 @@ Video acceleration fixed with device-id spoofing.
 ### Not-Working  
 Touchpad/Trackpad: VoodooPs2/VoodooI2C don't work.  
 Keyboard Fn function doesn't work at the moment.  
+Find my : wrong position or no position reported at all.
 
 ## Screenshots
 
