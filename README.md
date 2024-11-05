@@ -12,7 +12,7 @@ OpenCore version: 0.9.9
 Seems to be compatible with: macOS Sonoma    
 Test status: installed.  
 
-## How to use
+## How to use  
 
 1/ Download a release corresponding to your macOS version  
 2/ Extract it on USB stick (GPT disk with FAT32 primary partition) or EFI partition  
