@@ -3,6 +3,8 @@
 EFI boot folder based on OpenCore for Dynabook Satellite Pro C50-H-101  
 Last update: May 17th 2024. 
 
+/!\ WARNING = Project in standby. No futur update planned.  
+
 ## Description
 
 EFI files based on OpenCore  
